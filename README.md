@@ -19,8 +19,7 @@ API ini mencakup fitur:
 
 ### 1️⃣ Clone Repository
 ```bash
-git clone https://github.com/username/flask-api.git
-cd flask-api
+git clone https://github.com/IyaTulus/horus-aldi-exam
 ````
 
 ### 2️⃣ Buat Virtual Environment
@@ -186,8 +185,7 @@ Aplikasi ini berfungsi sebagai dashboard admin untuk mengelola data pengguna, au
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/username/horus-exam-frontend.git
-cd horus-exam-frontend
+git clone https://github.com/IyaTulus/horus-aldi-exam
 ````
 
 ### 2. Install Dependencies
@@ -291,5 +289,6 @@ Universitas Ahmad Dahlan
 
 
 ---
+
 
 
