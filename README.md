@@ -1,4 +1,4 @@
-```markdown
+```md
 # 🐍 Flask REST API with MySQL, JWT Authentication & Blueprint
 
 ## 📘 Deskripsi
@@ -159,10 +159,6 @@ python-dotenv==1.0.1
 
 ---
 
-Berikut format **README.md** lengkap untuk instalasi dan menjalankan **frontend Vue 3 + Vite + Tailwind + Axios** (seperti proyek kamu):
-
----
-
 ````md
 # 🚀 Horus Exam Frontend
 
@@ -289,6 +285,7 @@ Universitas Ahmad Dahlan
 
 
 ---
+
 
 
 
